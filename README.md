@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on a personal project that's hush-hush. 🤫 [Cinder](<Private>)
+
+- 👯 I’m looking to collaborate on my personal project, you'll have to sign an NDA ofc. [Cinder](<Private>)
+
+- 🌱 I’m currently learning TypeScript and JavaScript [TS-Screeps](<Private>)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/xtwistedx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xtwistedx" height="30" width="40" /></a>
@@ -20,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkaulfers&show_icons=true&locale=en" alt="mkaulfers" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaulfers&" alt="mkaulfers" /></p>
-
