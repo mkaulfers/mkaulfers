@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on my personal project, you'll have to sign an NDA ofc. [Cinder](<Private>)
 
-- 🌱 I’m currently learning TypeScript and JavaScript [TS-Screeps](<Private>)
+- 🌱 I’m currently building a bot for a game called screeps with @Rougeayrn [TwistedRougeOS](<Private>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
